@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently working on myself<br><br>👨‍💻 All of my projects are available at https://github.com/TANYASHARMA2226?tab=repositories<br><br>📫 Reach me at tanyaneeraj12@gmail.com+github@gmail.com<br><br>⚡ Fun fact When I code, I forgot everything time, hunger, etc
+🌱 I’m currently working on myself<br><br>👨‍💻 All of my projects are available at https://github.com/TANYASHARMA2226?tab=repositories<br><br>📫 Reach me at tanyaneeraj12@gmail.com+github@gmail.com<br><br>⚡ Fun fact When I code, I forget everything time, hunger, etc.
 
 
 ## 🌐 Socials:
