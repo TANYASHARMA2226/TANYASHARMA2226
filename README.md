@@ -18,8 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=itzz-rr&icon=0&color=11)](https://visitcount.itsvg.in)
  
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+  Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align="center">Heyy 👋 I'm Tanya Sharma</h1>
 <h3 align="center">Passionate about building impactful tech solutions.</h3>
@@ -94,17 +93,6 @@
 ## 🚀 LeetCode Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/TANYA_SHARMA_26?theme=dark&font=Karma&ext=activity">
-</p>
-
-## 🏅 LeetCode Achievements
-[![LeetCode Badge](https://leetcode-badge-api.herokuapp.com/TANYA_SHARMA_26?style=flat-square)](https://leetcode.com/TANYA_SHARMA_26/)
-
-## 📈 LeetCode Performance Overview
-[![LeetCode Ranking](https://leetcode-stats-api.herokuapp.com/TANYA_SHARMA_26?theme=dark)](https://leetcode.com/TANYA_SHARMA_26/)
-
-## 😂 Programming Meme of the Day
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
 </p>
 
 <!--## 🚀 Visitors Count  
