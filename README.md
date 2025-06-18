@@ -52,11 +52,11 @@ An AI-powered smart tourism experience for Jaipur
 ---
 
 ## 🏆 Achievements  
-- 🏅 **Navonmesh AIDEA 2025** – Top 10 for tech-driven social innovation pitch  
-- 🌟 **Goldman Sachs Engineering Program 2024–25** – Cleared Round 1  
-- 🎓 **DESIS Ascend Educare Program 2024** – Shortlisted  
-- 👗 **Myntra HackerRamp 2024** – Phase 2 qualifier (Virtual Outfit Builder)  
-- 💻 **Smart India Hackathon 2023** – National-level finalist  
+- 🏅 **Navonmesh AIDEA 2025** – Recognized among Top 10 for a tech-driven social innovation pitch.  
+- 🌟 **Goldman Sachs Engineering Program 2024–25** – Cleared Round 1 of a competitive engineering selection process.  
+- 🎓 **DESIS Ascend Educare Program 2024** – Shortlisted for a high-impact career development initiative.  
+- 👗 **Myntra HackerRamp 2024** – Qualified for Phase 2; worked on a Virtual Outfit Builder & Social Shopping feature.  
+- 💻 **Smart India Hackathon 2023** – Built real-world solutions collaboratively at the national level.  
 
 ---
 
