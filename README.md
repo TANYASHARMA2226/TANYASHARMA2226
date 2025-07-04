@@ -8,10 +8,6 @@
 
 💡 I'm currently serving as the **Development Lead at Google Developer Groups (GDG)**, leading **tech initiatives, workshops**, and **student projects** to foster a collaborative learning ecosystem.
 
-🛠️ I’m actively working on **Jeevifyy – Emergency Help Within 10 Minutes**, a smart emergency response system using **IoT wearables and automation** to provide guided support and alerts during critical health incidents.  
-
-🌍 I also developed **Char Dham Darshan – AI-Powered Pilgrimage Guide**, a smart tourism experience integrating **AI-based personalization, multilingual support, and real-time insights** to help travelers plan better.
-
 📫 Reach me at: **[tanyaneeraj12@gmail.com](mailto:tanyaneeraj12@gmail.com)**  
 🌐 Portfolio: [GitHub Projects](https://github.com/TANYASHARMA2226?tab=repositories)
 
@@ -42,12 +38,11 @@
 
 ## 🛠️ Projects  
 
-### 🚑 [Jeevifyy](https://github.com/TANYASHARMA2226)  
-A smart emergency response system integrating **IoT-enabled wearables**, **automated alerting**, and **guided support** for real-time healthcare assistance.
+### 🚑 [Jeevifyy – Emergency Help Within 10 Minutes](https://github.com/TANYASHARMA2226)  
+A bilingual emergency response platform with smart SOS activation, first-aid guidance, and live transport booking.
 
-### 🌍 [Jaipur Unlocked](https://github.com/your-repo-link)  
-An AI-powered smart tourism experience for Jaipur  
-🔹 Interactive itinerary planner, real-time crowd updates, local culture insights, and personalized guidance.
+### 🌍 [Char Dham Darshan – AI-Powered Pilgrimage Guide](https://github.com/your-repo-link)  
+An AI-based pilgrimage planner with audio guides, cultural insights, real-time crowd/weather updates, and map-based travel assistance.
 
 ---
 
