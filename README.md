@@ -8,9 +8,9 @@
 
 💡 I'm currently serving as the **Development Lead at Google Developer Groups (GDG)**, leading **tech initiatives, workshops**, and **student projects** to foster a collaborative learning ecosystem.
 
-🛠️ I’m actively working on **Jeevifyy**, a smart emergency response system using **IoT wearables and automation** to provide guided support and alerts during critical health incidents.  
+🛠️ I’m actively working on **Jeevifyy – Emergency Help Within 10 Minutes**, a smart emergency response system using **IoT wearables and automation** to provide guided support and alerts during critical health incidents.  
 
-🌍 I also developed **Jaipur Unlocked**, a smart tourism experience integrating **AI-based personalization, multilingual support, and real-time insights** to help travelers plan better.
+🌍 I also developed **Char Dham Darshan – AI-Powered Pilgrimage Guide**, a smart tourism experience integrating **AI-based personalization, multilingual support, and real-time insights** to help travelers plan better.
 
 📫 Reach me at: **[tanyaneeraj12@gmail.com](mailto:tanyaneeraj12@gmail.com)**  
 🌐 Portfolio: [GitHub Projects](https://github.com/TANYASHARMA2226?tab=repositories)
@@ -52,6 +52,7 @@ An AI-powered smart tourism experience for Jaipur
 ---
 
 ## 🏆 Achievements  
+- 💡 **Meesho ScriptedByHer 2025 Hackathon – Round 1 Shortlisted (Top ~15%)** – Selected from 36,000+ applicants in a national women-centric tech hackathon.
 - 🏅 **Navonmesh AIDEA 2025** – Recognized among Top 10 for a tech-driven social innovation pitch.  
 - 🌟 **Goldman Sachs Engineering Program 2024–25** – Cleared Round 1 of a competitive engineering selection process.  
 - 🎓 **DESIS Ascend Educare Program 2024** – Shortlisted for a high-impact career development initiative.  
