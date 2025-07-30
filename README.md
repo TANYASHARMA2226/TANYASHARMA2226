@@ -16,7 +16,7 @@
 ## 🌐 Connect With Me  
 <p align="center">
 <a href="https://www.linkedin.com/in/tanyasharma2604/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/t.a.n.y.a._204/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<!-- <a href="https://www.instagram.com/t.a.n.y.a._204/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> -->
 <a href="mailto:tanyaneeraj12@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
